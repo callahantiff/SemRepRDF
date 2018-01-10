@@ -1,0 +1,4 @@
+argparse>=1.2.1
+mysql-connector-python==8.0.5
+rdflib==4.2.1
+functools32==3.2.3-2
