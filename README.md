@@ -1,5 +1,5 @@
 # SemRepRDF
-Sources of “big” biomedical data like electronic health records (EHRs), high-throughput experiments, and Internet of Things devices provide researchers and clinicians with unprecedented opportunities for scientific advancement. Unfortunately, to fully utilize these data researchers must face the formidable challenge of synthesizing relevant information from an exponentially expanding body of scientific literature. To help solve this problem, the natural language processing and biomedical research communities have developed rigorous algorithms resulting in the generation of impressive collections of annotated text corpora. While the breadth of concept annotations in existing corpora is extensive, large-scale annotation of relations between annotated concepts is often limited or incomplete. To help solve this problem, this repository documents our progress towards transforming the National Library of Medicine’s Semantic Representation (SemRep) predications into semantically-linked annotations.
+This repository contains code used to transform the National Library of Medicine’s Semantic Representation (SemRep) predications into open semantically-linked annotations.
 
 The schema used to convert the data to triples is shown below.
 <img src="https://github.com/callahantiff/SemRepRDF/blob/master/images/SemRep_PA_triples_v5.jpg">
