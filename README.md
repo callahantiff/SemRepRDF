@@ -1,8 +1,5 @@
 # SemRepRDF
-This repository contains code used to transform the National Library of Medicine’s Semantic Representation (SemRep) predications into open semantically-linked annotations.
-
-The schema used to convert the data to triples is shown below.
-<img src="https://github.com/callahantiff/SemRepRDF/blob/master/images/SemRep_PA_triples_v5.jpg">
+This repository contains code used to transform the National Library of Medicine’s Semantic Representation (SemRep) predications into open semantically-linked annotations. Please see the Wiki for more details.
 
 
 ## Getting Started
