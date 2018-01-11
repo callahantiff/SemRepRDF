@@ -48,17 +48,10 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Testing
 We are in the process of developing tests for each module. We will create documentation as they are created.
 
-## Collaboration
-
-* [callahantiff](https://github.com/callahantiff)
-* [bill-baumgartner](https://github.com/bill-baumgartner)
-* Olivier Bodenreider
-* [jdkim](https://github.com/jdkim)
-
-
 ## License
-
-This project is licensed under 3-Clause BSD License - see the [LICENSE.md](https://github.com/callahantiff/SemRepRDF/blob/master/LICENSE) for details.
+This repository generates two different kinds of output that are subject to two different kind of licensing (see details regarding these representations on the [Wiki](https://github.com/callahantiff/SemRepRDF/wiki/Licensing)):
+  1. The SemRep representation uses concepts that are part of the UMLS Metathesaurus and are thus subject to the [UMLS license agreement](https://uts.nlm.nih.gov/license.html).
+  2. The open SemRepRDF version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This representation is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Acknowledgments
 
