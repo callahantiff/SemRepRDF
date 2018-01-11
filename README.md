@@ -30,7 +30,6 @@ This program was written on a system running OS X Sierra. Successful execution o
 
 The program can be run from the command line via argparse arguments.
 
-Running program from the command line
 ```
 # from project directory - find help menu
 tiffanycallahan$ python RDFizer.py -h
