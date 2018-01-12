@@ -49,10 +49,11 @@ We use [SemVer](http://semver.org/) for versioning.
 We are in the process of developing tests for each module. We will create documentation as they are created.
 
 ## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  
 
 This repository generates two different kinds of output that are subject to two different kind of licensing (see details regarding these representations on the [Wiki](https://github.com/callahantiff/SemRepRDF/wiki/Licensing)):
   1. The SemRep representation uses concepts that are part of the UMLS Metathesaurus and are thus subject to the [UMLS license agreement](https://uts.nlm.nih.gov/license.html).
-  2. The open SemRepRDF version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Minor modifications to the original SemRep predications include the mapping of UMLS CUIs to open resource concept identifiers.  
+  2. The open SemRepRDF version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. Minor modifications to the original SemRep predications include the mapping of UMLS CUIs to open resource concept identifiers.  
   
  #### SemRepRDF-Open Resources and Tools
  
@@ -184,7 +185,7 @@ administrative purposes eg. health records management.</td>
 
 <tr>
  <td> Semantic Knowledge Representation</td>
- <td> 2017AB - Version 1.7</td>
+ <td> 2017AB;<br>v 1.7</td>
  <td> SKR resources are available to all applicants at no charge, both within and outside the United States. </td>
  <td> Redistributions of SKR resources in source or binary form must include the following list of conditions in the documentation and other materials provided with the distribution.
  <ul>
@@ -200,7 +201,7 @@ administrative purposes eg. health records management.</td>
 
 <tr>
  <td> Semantic Network</td>
- <td> 2017AB - Version 54</td>
+ <td> 2017AB;<br>v 54</td>
  <td> The following Terms and Conditions apply for use of the UMLS Semantic Network. Using the UMLS Semantic Network indicates your acceptance of the following Terms and Conditions. These Terms and Conditions apply to all the UMLS Semantic Network files, independent of format and method of acquisition. </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="https://semanticnetwork.nlm.nih.gov/TermsAndConditions.html"> Additional Information</a></td>
 </tr>
