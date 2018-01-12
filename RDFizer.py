@@ -4,7 +4,16 @@
 # version 1.0.0
 # date: 12.19.2017
 # Python 2.7.13
+# ###################################
+# Licensing: The SemRep (Database Version 3.0_A; SemRep Version 1.7; Date 12/31/2016) is the original source of the
+# predications. Neither the United States Government, the U.S. Department of Health and Human Services, the National
+# Institutes of Health, the National Library of Medicine, the Lister Hill National Center for Biomedical Communications,
+# nor any of their agencies, contractors, subcontractors, or employees make any warranties, expressed or implied, with
+# respect to the SKR resources, and furthermore, they assume no liability for any party's use, or the results of such
+# use, of any part of these tools. For the SemRepRDF-Open version, minor modifications to the original SemRep
+# predications include the mapping of UMLS CUIs to open resource concept identifiers.
 ##########################################################################################
+
 
 ##NEEDS:
 #1. Dockers for triples and docker that can download SemMedDB instance
@@ -13,6 +22,7 @@
 #4. write testing
 #5. think through combining with PubAnnotation - and or the way that we will map the UMLS concepts to other
 # terminologies
+#6. add wording to top of output file to be in compliance with terms and use agreement.
 
 # install needed libraries
 import argparse
