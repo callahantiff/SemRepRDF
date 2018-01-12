@@ -64,7 +64,6 @@ This repository generates two different kinds of output that are subject to two 
    <td><b>Version</b></td>
    <td><b>License</b></td>
    <td><b>Terms of Use</b></td>
-   <td><b>Useage</b></td>
   </tr>
   <tr>
    <td colspan="5"><b>RESOUCES</b></td>
@@ -75,7 +74,6 @@ This repository generates two different kinds of output that are subject to two 
     <td> 2017AB</td>
     <td> Non-Commercial</td>
     <td> Use of all or parts of the material requires reference to the WHO Collaborating Centre for Drug Statistics Methodology. Copying and distribution for commercial purposes is not allowed. <a href="https://www.whocc.no/copyright_disclaimer/">Additional Information</a>. Changing or manipulating the material is not allowed.</td>
-    <td> Using concept identifiers and mapping identifiers to ChEBI, GO, UBERON</td>
   </tr>
   
    <tr>
@@ -83,7 +81,6 @@ This repository generates two different kinds of output that are subject to two 
    <td> 2017AB</td>
    <td> CC BY-NC 4.0</td>
    <td> DrugBank is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes (including internal use) requires a license. <a href="https://www.drugbank.ca/about"> Additional Information</a></td>
-   <td> Internally using concept identifiers to map to ChEBI identifiers</td>
  </tr>
  
  <tr>
@@ -91,7 +88,6 @@ This repository generates two different kinds of output that are subject to two 
   <td> 2017AB</td>
   <td> CC-BY 4.0</td>
   <td> The GOC wishes the users and consumers of GO data publicly display the date(s) and/or version number(s) of the relevant GO files, data, or software version. The GO is evolving and changes regularly--this information is critical to downstream consumers and users. <a href="http://www.geneontology.org/page/use-and-license"> Additional Information</a></td>
-  <td> Using concept identifiers</td>
 </tr>
 
 <tr>
@@ -99,7 +95,6 @@ This repository generates two different kinds of output that are subject to two 
  <td> 2017AB</td>
  <td> It is a condition of our funding from NIH and the Wellcome Trust that the nomenclature and information we provide is freely available to all.</td>
  <td> Anyone may use the HGNC data, but we request that they reference the "HUGO Gene Nomenclature Committee at the European Bioinformatics Institute" and the website where possible. <a href="https://www.genenames.org/about/overview"> Additional Information</a></td>
- <td> Using concept identifiers as well as creating mappings to Ensembl</td>
 </tr>
 
 <tr>
@@ -114,7 +109,6 @@ This repository generates two different kinds of output that are subject to two 
 <li>We suggest that you follow standard scientific citation practice if you use the HPO in publications.<br>5)Services and products have to display a short acknowledgement statement, that makes clear that the service/product is using HPO.</li>
 </ul>
 <a href="http://human-phenotype-ontology.github.io/license.html"> Additional Information</a></td>
- <td> Using concept identifiers</td>
 </tr>
 
 <tr>
@@ -122,7 +116,6 @@ This repository generates two different kinds of output that are subject to two 
  <td> 2017AB</td>
  <td> Not specified in readme when downloaded</td>
  <td> Availible for download via ftp through the CDC. <a href="https://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/codes.html"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to HPO and DOID</td>
 </tr>
 
 <tr>
@@ -132,7 +125,6 @@ This repository generates two different kinds of output that are subject to two 
 classifications into their internal information systems for use by employees for use for
 administrative purposes eg. health records management". </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="http://www.who.int/about/licensing/Internettext_FAQ.pdf"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to ATC and ChEBI</td>
 </tr>
 
 <tr>
@@ -142,7 +134,6 @@ administrative purposes eg. health records management". </td>
 classifications into their internal information systems for use by employees for use for
 administrative purposes eg. health records management.</td>
  <td> For more information regarding guidelines for using resource, see link. <a href="http://www.who.int/about/licensing/Internettext_FAQ.pdf"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to LOINC</td>
 </tr>
 
 <tr>
@@ -150,7 +141,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB</td>
  <td> Licensed and Copyrighted, free to use</td>
  <td> The Terms of Use are very detailed, see link. <a href="https://loinc.org/license/"> Additional Information</a></td>
- <td> Using concept identifiers as well as creating mappings to ATC, ChEBI, CL, CSSO, GO, HPO, DOID, SYMP, DRON, DINTO, UBERON</td>
 </tr>
 
 <tr>
@@ -158,7 +148,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB</td>
  <td> Databases of molecular data on the NCBI Web site include such examples as nucleotide sequences (GenBank), protein sequences, macromolecular structures, molecular variation, gene expression, and mapping data. They are designed to provide and encourage access within the scientific community to sources of current and comprehensive information. Therefore, NCBI itself places no restrictions on the use or distribution of the data contained therein. Nor do we accept data when the submitter has requested restrictions on reuse or redistribution. </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="https://www.ncbi.nlm.nih.gov/home/about/policies/"> Additional Information</a></td>
- <td> Using concept identifiers as well as creating mappings to ATC, ChEBI, CL, CSSO, GO, HPO, DOID, SYMP, DRON, DINTO, UBERON</td>
 </tr>
 
 <tr>
@@ -166,7 +155,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB</td>
  <td> UMLS Category 0 license; but vocabulary can be downloaded from NCI without license or registration. </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="https://evs.nci.nih.gov/ftp1/NDF-RT/"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to ATC and ChEBI</td>
 </tr>
 
 <tr>
@@ -174,7 +162,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB</td>
  <td> Licensed through the University of Washington, which states "The Foundational Model of Anatomy ontology (FMA) is OPEN SOURCE and available for general use". </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to ATC and ChEBI</td>
 </tr>
 
 <tr>
@@ -182,7 +169,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB</td>
  <td> Subject to same licensing as Current Procedural Terminology (CPT) codes. The AMA licenses thousands of organizations to use CPT data in a broad array of applications. The AMA’s licensing model for CPT is based on individual users. In each of these cases, organizations that utilize CPT in one of these systems are required to obtain a license for each system and for each Individual user—regardless of the number of codes they use. </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="https://www.ama-assn.org/practice-management/cpt-licensing-health-care-delivery-organizations"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to LOINC</td>
 </tr>
 
 <tr>
@@ -190,7 +176,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB</td>
  <td> License prevents redistribution. </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="https://www.omim.org/help/agreement"> Additional Information</a></td>
- <td> Internally mapping concept identifiers to DOID and HPO</td>
 </tr>
 
  <tr>
@@ -211,7 +196,6 @@ administrative purposes eg. health records management.</td>
 <li>These Terms and Conditions are in effect as long as the user retains any part of the SKR resources.</li>
 </ul>
 <a href="https://skr3.nlm.nih.gov/TermsAndCond.html"> Additional Information</a></td>
- <td> Not applicable</td>
 </tr>
 
 <tr>
@@ -219,7 +203,6 @@ administrative purposes eg. health records management.</td>
  <td> 2017AB - Version 54</td>
  <td> The following Terms and Conditions apply for use of the UMLS Semantic Network. Using the UMLS Semantic Network indicates your acceptance of the following Terms and Conditions. These Terms and Conditions apply to all the UMLS Semantic Network files, independent of format and method of acquisition. </td>
  <td> For more information regarding guidelines for using resource, see link. <a href="https://semanticnetwork.nlm.nih.gov/TermsAndConditions.html"> Additional Information</a></td>
- <td> Not applicable</td>
 </tr>
 
 
