@@ -44,3 +44,6 @@ README.md
 
 #directories
 images/drafts/
+
+#data
+SemRepRDF_PMIDS.tsv
