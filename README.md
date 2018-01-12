@@ -53,7 +53,19 @@ The SemRep (Database Version 3.0_A; SemRep Version 1.7; Date 12/31/2016) is the 
 
 This repository generates two different kinds of output that are subject to two different kind of licensing (see details regarding these representations on the [Wiki](https://github.com/callahantiff/SemRepRDF/wiki/Licensing)):
   1. The SemRep representation uses concepts that are part of the UMLS Metathesaurus and are thus subject to the [UMLS license agreement](https://uts.nlm.nih.gov/license.html).
-  2. The open SemRepRDF version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This representation is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Minor modifications to the original SemRep predications include the mapping of UMLS CUIs to open resource concept identifiers.
+  2. The open SemRepRDF version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Minor modifications to the original SemRep predications include the mapping of UMLS CUIs to open resource concept identifiers.  
+  
+ #### SemRepRDF-Open Resources and Tools
+ Table of UMLS Metathesaurus vocabularies and NLM tools used when generating SemRepRDF-Open.  
+ 
+|Source|Version|License|Terms of Use|Useage|
+|---|---|---|---|---|
+|*RESOURCES*|
+|Anatomical Therapeutic Chemical (ATC)|2017AB|UMLS Category 0<br>Non-Commercial|Use of all or parts of the material requires reference to the WHO Collaborating Centre for Drug Statistics Methodology. Copying and distribution for commercial purposes is not allowed. [Copyright Information](https://www.whocc.no/copyright_disclaimer/). Changing or manipulating the material is not allowed.|Using concept identifiers|
+|
+ 
+  
+  
 
 ## Acknowledgments
 
