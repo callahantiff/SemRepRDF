@@ -20,7 +20,7 @@ This program was written on a system running OS X Sierra. Successful execution o
   ```
 
   * Semantic MEDLINE Database
-    * If using SemRepRDF-UMLS you will need to obtain a free [UMLS license](https://www.nlm.nih.gov/research/umls/)
+    * If using SemRepRDF-UMLS, you will need to obtain a free [UMLS license](https://www.nlm.nih.gov/research/umls/)
     * Download and configure the latest SemMedDB MySQL data dump [SemMedDB](https://skr3.nlm.nih.gov/SemMedDB/dbinfo.html)
 
   * Although not a requirement, the program has been written to run in parallel on a super computer.
@@ -46,7 +46,7 @@ tiffanycallahan$ python RDFizer.py
 We use [SemVer](http://semver.org/) for versioning.
 
 ## Testing
-We are in the process of developing tests for each module. We will create documentation as they are created.
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  
