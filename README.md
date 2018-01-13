@@ -57,7 +57,7 @@ This repository generates two different kinds of output that are subject to two 
   
  #### SemRepRDF-Open Resources and Tools
  
- Table of UMLS Metathesaurus vocabularies and NLM tools used when generating SemRepRDF-Open.  
+ Table of UMLS Metathesaurus vocabularies and NLM tools used when generating SemRepRDF-Open. For details regarding how each of these sources will be used when generating SemRepRDF-Open, see Wiki page on [Resource Mapping](https://github.com/callahantiff/SemRepRDF/wiki/Resource-Mapping).
   
 <table>
   <tr>
