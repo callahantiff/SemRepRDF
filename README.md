@@ -52,12 +52,12 @@ We use [SemVer](http://semver.org/) for versioning.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  
 
 This repository generates two different kinds of output that are subject to two different kind of licensing (see details regarding these representations on the [Wiki](https://github.com/callahantiff/SemRepRDF/wiki/Licensing)):
-  1. The SemRep representation uses concepts that are part of the UMLS Metathesaurus and are thus subject to the [UMLS license agreement](https://uts.nlm.nih.gov/license.html).
-  2. The open SemRepRDF version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. Minor modifications to the original SemRep predications include the mapping of UMLS CUIs to open resource concept identifiers.  
+  1. The SemRepRDF-UMLS representation uses concepts that are part of the UMLS Metathesaurus and are thus subject to the [UMLS license agreement](https://uts.nlm.nih.gov/license.html).
+  2. The SemRepRDF-LOD version has been generated in such a way that all annotated concept identifiers come only from terminologies, vocabularies, and ontologies with open license agreements. Minor modifications to the original SemRep predications include the mapping of UMLS CUIs to open resource concept identifiers.  
   
  #### SemRepRDF-Open Resources and Tools
  
- Table of UMLS Metathesaurus vocabularies and NLM tools used when generating SemRepRDF-Open. For details regarding how each of these sources will be used when generating SemRepRDF-Open, see Wiki page on [Resource Mapping](https://github.com/callahantiff/SemRepRDF/wiki/UMLS-Concept-and-Relation-Mapping).
+ Table of UMLS Metathesaurus vocabularies and NLM tools used when generating SemRepRDF-LOD. For details regarding how each of these sources will be used when generating SemRepRDF-LOD, see Wiki page on [Resource Mapping](https://github.com/callahantiff/SemRepRDF/wiki/UMLS-Concept-and-Relation-Mapping).
   
 <table>
   <tr>
